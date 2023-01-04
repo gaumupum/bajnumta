@@ -1,5 +1,5 @@
 import math,os
 if __name__=='__main__':
-  g=math.sin(96.4)
-  i=g*math.log(24)
-  print(i*4)
+  g=math.sin(35.8)
+  i=g*math.log(28)
+  print(i*7)
